@@ -22,3 +22,8 @@
     margin-left: 0px;
 
 }
+
+
+td, th {
+padding: 2px;
+}
